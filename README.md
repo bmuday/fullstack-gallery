@@ -1,2 +1,1 @@
-# sample-fullstack
-# fullstack-shop
+# fullstack-gallery
